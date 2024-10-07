@@ -1,0 +1,18 @@
+Technologies : Shiny
+
+Roles & Responsibilities
+=========================
+Analyze large amounts of information to discover trends and patterns
+Responsible for design, development, test, evaluate of Machine Learning Models based on unstructured structured data
+Analyze Business Problems 
+Build predictive models and machine learning algorithms
+Present information using data visualization techniques
+Research and implement appropriate ML algorithms and tools
+Run machine learning tests and experiments
+Train and retrain systems when necessary
+
+Machine Learning POC's
+Classification | Regression | Clustering
+Linear Regression(Simple,Multiple) | Ridge Regression | Lasso Regression | ElasticNet Regression | Logistics Regression | 
+Naive Bayes | Decision Trees | K-Means Clustering | PCA | Random Forest | XGBOOST | KNN | Naive Bayes | SVM | Time Series Analysis | Apriori 
+
